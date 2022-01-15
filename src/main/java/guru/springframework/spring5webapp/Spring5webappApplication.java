@@ -9,4 +9,9 @@ public class Spring5webappApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(Spring5webappApplication.class, args);
 	}
+	
+	private void syso() {
+		// TODO Auto-generated method stub
+
+	}
 }
